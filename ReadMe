@@ -1,0 +1,33 @@
+coder challange w1
+
+#### Date, 2024/03/23
+
+#### By *Carlson taylor*
+
+## Description
+This page has three files each give solutions to different tests
+The first file is grading marks 
+The second file is defining speed detectors
+The last file is giving the net salary for an individual based on basic salary and benefits
+
+## Installation
+you use git clone to be able to download the document in the github
+
+## Installation Requirements
+Git
+
+### Installation instruction
+ git clone https://github.com/carlson-taylor/code-challenge-wk-one-phase-1
+
+ # live link
+ [Git](https://github.com/carlson-taylor/code-challenge-wk-one-phase-1)
+
+ ## Technology used
+ javascript
+
+ ## Support and contact details
+ github.com/carlson-taylor
+
+ ### License
+ Thr content of this site is licensed under the MIT license
+ copyright (c) 2024.
